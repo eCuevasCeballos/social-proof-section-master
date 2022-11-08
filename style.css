@@ -22,7 +22,7 @@ Colors
 
 body {
   max-width: 335px;
-  margin: 0 auto;
+  margin: 90px auto;
   font-family: "League Spartan", sans-serif;
   overflow: hidden;
 }
@@ -38,9 +38,6 @@ body {
 }
 
 /* Header and text styles */
-.text-container {
-  margin-top: 90px;
-}
 .header {
   font-size: 2.4rem;
   color: #511f50;
